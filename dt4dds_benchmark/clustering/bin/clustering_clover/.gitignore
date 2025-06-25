@@ -1,0 +1,8 @@
+# prevent binaries from being committed
+*
+!README.md
+!install.sh
+!cluster.sh
+!convertinput.py
+!parse_clusters.py
+!.gitignore

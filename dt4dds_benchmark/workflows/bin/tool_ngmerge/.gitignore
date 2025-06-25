@@ -1,0 +1,6 @@
+# prevent binaries from being committed
+*
+!README.md
+!install.sh
+!run.sh
+!.gitignore

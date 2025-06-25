@@ -1,0 +1,7 @@
+# prevent binaries from being committed
+*
+!README.md
+!install.sh
+!cluster2consensus.sh
+!cluster2consensus.py
+!.gitignore

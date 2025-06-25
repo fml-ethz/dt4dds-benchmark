@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=60", "setuptools-scm[toml]>=8.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "dt4dds-benchmark"
+authors = [
+    {name = "Andreas Gimpel", email = "andreas.gimpel@chem.ethz.ch"},
+]
+description = ""
+readme = 'README.md'
+requires-python = ">=3.9"
+license = {file = "LICENSE"}
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python",
+    "Topic :: Scientific/Engineering :: Bio-Informatics"
+]
+dynamic = ["version", "dependencies"]
+
+
+[tool.setuptools]
+py-modules = ['dt4dds_benchmark']
+
+
+[tool.setuptools.dynamic]
+version = {attr = "dt4dds_benchmark.__VERSION__"}
+dependencies = {file = ["requirements.txt"]}
+
+
+[project.urls]
+Homepage = "https://dt4dds.ethz.ch"
+Repository = "https://github.com/fml-ethz/dt4dds-benchmark"
+
+
+[tool.setuptools_scm]
+# can be empty if no extra settings are needed, presence enables setuptools_scm
+
+
+[tool.pytest.ini_options]
+addopts = ["--import-mode=importlib"]
+testpaths = ["tests"]
+markers = [
+    "codecs",
+    "codecs_aeon",
+    "codecs_fountain",
+    "codecs_goldman",
+    "codecs_hedges",
+    "codecs_rs",
+    "codecs_yinyang",
+    "codecs_encoding",
+    "codecs_decoding",
+    "codecs_repeatability",
+]
