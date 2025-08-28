@@ -4,4 +4,7 @@ from .goldman import Goldman
 from .rs import DNARS
 from .hedges import HEDGES
 from .yinyang import YinYang
+from .modulation import Modulation
+from .ldpc import LDPC
+from .dbgps import DBGPS
 from .basecodec import BaseCodec

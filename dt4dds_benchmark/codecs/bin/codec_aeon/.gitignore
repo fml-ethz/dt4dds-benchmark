@@ -8,3 +8,7 @@
 !.gitignore
 !codebooks.fasta
 !codebooks.json
+!undesired_sequences.fasta
+!motif_codebooks.fasta
+!motif_codebooks.json
+!codebook_generation.log

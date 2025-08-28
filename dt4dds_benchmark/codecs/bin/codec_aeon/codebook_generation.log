@@ -1,0 +1,118 @@
+>loxP https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+ataacttcgtatagcatacattatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>loxR https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+ataacttcgtatagcatacattatacgaacggta
+
+is longer then codeword length and will be dismissed.
+
+>loxL https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+taccgttcgtatagcatacattatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>loxLR https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+taccgttcgtatagcatacattatacgaacggta
+
+is longer then codeword length and will be dismissed.
+
+>lox1R https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+taccgttcgtatatggtattatatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>lox2R https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+taccgttcgtatattctatcttatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>lox3R https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+taccgttcgtataggatactttatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>lox4R https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+taccgttcgtatatactatactatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>lox5R https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+taccgttcgtatactatagcctatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>Lox1L https://doi.org/10.1016/j.jbiotec.2016.06.033
+
+ataacttcgtatatggtattatatacgaacggta
+
+is longer then codeword length and will be dismissed.
+
+>loxN https://doi.org/10.1038/nature06293
+
+ataacttcgtatagtataccttatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>loxP 511 https://doi.org/10.1093/nar/14.5.2287
+
+ataacttcgtatagtatacattatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>lox 5171 https://doi.org/10.1007/978-981-10-3874-733
+
+ataacttcgtatagtacacattatacgaagttat
+
+is longer then codeword length and will be dismissed.
+
+>Adapter F https://doi.org/10.1186/1746-4811-8-32
+
+ctcgtagactgcgtacca
+
+is longer then codeword length and will be dismissed.
+
+>Adapter R https://doi.org/10.1186/1746-4811-8-32
+
+gacgatgagtcctgagta
+
+is longer then codeword length and will be dismissed.
+
+>H1 (HindIII) https://doi.org/10.1016/j.jbiotec.2003.08.005
+
+ggttccacgtaagcttcc
+
+is longer then codeword length and will be dismissed.
+
+>B4 (BsrGI) https://doi.org/10.1016/j.jbiotec.2003.08.005
+
+gcgattaccctgtacacc
+
+is longer then codeword length and will be dismissed.
+
+>M3 (MfeI) https://doi.org/10.1016/j.jbiotec.2003.08.005
+
+gccagtacatcaattgcc
+
+is longer then codeword length and will be dismissed.
+
+Lexicographic condition is false.
+
+Starting to translate to DNA.
+
+The translation is done, constrained DNA is saved in ../motif_codebooks.fasta
+
+allowed: 950403 from: 1048576
+
+Ratio of allowed sequences: 90.63749313354492 %
+

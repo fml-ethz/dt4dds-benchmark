@@ -4,6 +4,7 @@ from .worstcase import WorstCase
 from .pool_worstcase import Pool_Worstcase
 from .pool_bestcase import Pool_Bestcase
 from .errorgenerator import ErrorGenerator
+from .errorgenerator_motifs import ErrorGeneratorMotifs
 from .serialdilution import SerialDilution
 from .serialpcr import SerialPCR
 from .downsampling import Downsampling

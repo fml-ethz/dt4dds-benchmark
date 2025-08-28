@@ -1,0 +1,92 @@
+>Eukaryotic promotor recognition motif https://doi.org/10.1016/0022-2836(90)90223-9
+TATAAA
+>Prokaryotic promoter recognition motif https://doi.org/10.1016/j.jmb.2011.01.018
+TTGACA
+>Prokaryotic promoter recognition motif https://doi.org/10.1016/j.jmb.2011.01.018
+TGTATAATG
+>Eukaryotic ribosomal binding site https://doi.org/10.1016/0022-2836(87)90418-9
+GCCACCATGG
+>Eukaryotic ribosomal binding site https://doi.org/10.1016/0022-2836(87)90418-9
+ACCACCATGG
+>Eukaryotic polyadenylation signal https://doi.org/10.1016/0092-8674(87)90292-3
+AATAAA
+>Eukaryotic polyadenylation signal https://doi.org/10.1016/0092-8674(87)90292-3
+TTGTGTGTTG
+>loxP https://doi.org/10.1016/j.jbiotec.2016.06.033
+ATAACTTCGTATAGCATACATTATACGAAGTTAT
+>loxR https://doi.org/10.1016/j.jbiotec.2016.06.033
+ATAACTTCGTATAGCATACATTATACGAACGGTA
+>loxL https://doi.org/10.1016/j.jbiotec.2016.06.033
+TACCGTTCGTATAGCATACATTATACGAAGTTAT
+>loxLR https://doi.org/10.1016/j.jbiotec.2016.06.033
+TACCGTTCGTATAGCATACATTATACGAACGGTA
+>lox1R https://doi.org/10.1016/j.jbiotec.2016.06.033
+TACCGTTCGTATATGGTATTATATACGAAGTTAT
+>lox2R https://doi.org/10.1016/j.jbiotec.2016.06.033
+TACCGTTCGTATATTCTATCTTATACGAAGTTAT
+>lox3R https://doi.org/10.1016/j.jbiotec.2016.06.033
+TACCGTTCGTATAGGATACTTTATACGAAGTTAT
+>lox4R https://doi.org/10.1016/j.jbiotec.2016.06.033
+TACCGTTCGTATATACTATACTATACGAAGTTAT
+>lox5R https://doi.org/10.1016/j.jbiotec.2016.06.033
+TACCGTTCGTATACTATAGCCTATACGAAGTTAT
+>Lox1L https://doi.org/10.1016/j.jbiotec.2016.06.033
+ATAACTTCGTATATGGTATTATATACGAACGGTA
+>loxN https://doi.org/10.1038/nature06293
+ATAACTTCGTATAGTATACCTTATACGAAGTTAT
+>loxP 511 https://doi.org/10.1093/nar/14.5.2287
+ATAACTTCGTATAGTATACATTATACGAAGTTAT
+>lox 5171 https://doi.org/10.1007/978-981-10-3874-733
+ATAACTTCGTATAGTACACATTATACGAAGTTAT
+>Lox site spacer loxP WT https://doi.org/10.1007/978-981-10-3874-733
+GCATACAT
+>Lox site spacer lox1 https://doi.org/10.1186/1471-2164-7-73
+TGGTATTA
+>Lox site spacer lox2 https://doi.org/10.1186/1471-2164-7-73
+TTCTATCT
+>Lox site spacer lox3 https://doi.org/10.1186/1471-2164-7-73
+GGATACTT
+>Lox site spacer lox4 https://doi.org/10.1186/1471-2164-7-73
+TACTATAC
+>Lox site spacer lox5 https://doi.org/10.1186/1471-2164-7-73
+CTATAGCC
+>Lox site spacer lox6 https://doi.org/10.1007/978-981-10-3874-733
+AGGTATGC
+>Lox site spacer lox7 https://doi.org/10.1186/1471-2164-7-73
+TTGTATGG
+>Lox site spacer lox8 https://doi.org/10.1186/1471-2164-7-73
+GGATAGTA
+>Lox site spacer lox9 https://doi.org/10.1186/1471-2164-7-73
+GTGTATTT
+>Lox site spacer lox10 https://doi.org/10.1186/1471-2164-7-73
+GGTTACGG
+>Lox site spacer lox11 https://doi.org/10.1186/1471-2164-7-73
+TTTTAGGT
+>Lox site spacer loxN https://doi.org/10.1038/nature06293
+GTATACCT
+>Lox site spacer loxP 5171 https://doi.org/10.1007/978-981-10-3874-733
+GTACACAT
+>BbsI
+GAAGAC
+>BsaI
+GGTCTC
+>BsmBI
+CGTCTC
+>BspQI
+GCTCTTC
+>BtgZI
+GCGATG
+>Esp3I
+CGTCTC
+>SapI
+GCTCTTC
+>Adapter F https://doi.org/10.1186/1746-4811-8-32
+CTCGTAGACTGCGTACCA
+>Adapter R https://doi.org/10.1186/1746-4811-8-32
+GACGATGAGTCCTGAGTA
+>H1 (HindIII) https://doi.org/10.1016/j.jbiotec.2003.08.005
+GGTTCCACGTAAGCTTCC
+>B4 (BsrGI) https://doi.org/10.1016/j.jbiotec.2003.08.005
+GCGATTACCCTGTACACC
+>M3 (MfeI) https://doi.org/10.1016/j.jbiotec.2003.08.005
+GCCAGTACATCAATTGCC

@@ -1,0 +1,9 @@
+# prevent binaries from being committed
+*
+!README.md
+!install.sh
+!encode.sh
+!decode.sh
+!encode.py
+!decode.py
+!.gitignore

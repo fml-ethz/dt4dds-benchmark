@@ -12,6 +12,8 @@ ln -s ../../venv code/NOREC4DNA/venv
 
 cp codebooks.fasta code/codewords/codebooks.fasta
 cp codebooks.json code/codewords/codebooks.json
+cp motif_codebooks.fasta code/codewords/motif_codebooks.fasta
+cp motif_codebooks.json code/codewords/motif_codebooks.json
 cp encode.py code/encode.py
 
 cd code

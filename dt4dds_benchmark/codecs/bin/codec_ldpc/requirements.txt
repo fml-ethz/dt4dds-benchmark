@@ -1,0 +1,6 @@
+galois
+numpy
+tqdm 
+torch
+einops
+scikit-learn
